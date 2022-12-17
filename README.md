@@ -36,13 +36,14 @@ Whoever wishes to participate in this project must follow these guidelines:
   <li>Create the PR according to the format mentioned in the pull_request_template.md in the .github folder.</li>
 </ul>
 
+## How to Communication for help!
+If you have difficulty approaching the issue, feel free to ask on the OpenCode discord channel. We will be happy to help you out!
+[Discord Link](https://discord.gg/96sz3cFd)
+
 ## Learning 
-If you are a beginner and want to get started on your competitive programming journey, then you can check out this [article by Sumit Kumar Sahu](https://medium.com/nybles/how-to-start-with-competitive-programming-f5ab41263aee) for some resources and guidance.
-
-
-## Note
 If you are a beginner and want to get started on your competitive programming journey, then you can check out this [article by Sumit Kumar Sahu](https://medium.com/nybles/how-to-start-with-competitive-programming-f5ab41263aee) for guidance.
 
 For some more resources and guidance, you can also read these articles written by our respected senior to become good in competitive programming [article by Our Senior](https://medium.com/nybles/tagged/competitive-programming).
 
+## Note
 Happy Code Digging ! :)
