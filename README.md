@@ -36,7 +36,7 @@ Whoever wishes to participate in this project must follow these guidelines:
   <li>Create the PR according to the format mentioned in the pull_request_template.md in the .github folder.</li>
 </ul>
 
-## How to Communication for help!
+## How to Communicate for help!
 If you have difficulty approaching the issue, feel free to ask on the OpenCode discord channel. We will be happy to help you out!
 [Discord Link](https://discord.gg/96sz3cFd)
 
