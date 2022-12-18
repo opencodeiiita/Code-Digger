@@ -132,37 +132,6 @@
         "Discord username": "Piyush#8233",
         "Instagram": "https://www.instagram.com/piyush_g_g/"
     }, 
-
-    {
-        "Name": "Aman Nanda",
-        "College": "Indian Institute of Information Technology, Allahabad",
-        "Passout Year": "2025",
-        "Song that defines your relationship status": [
-            "Dhokha",
-            "https://www.youtube.com/watch?v=2JBYnvUlAEc&ab_channel=T-Series"
-        ],
-        "Your favourite hindi song": [
-            "Kesariya tera ishq hai piya",
-            "https://www.youtube.com/watch?v=BddP6PYo2gs&ab_channel=SonyMusicIndia"
-        ],
-        "Your favourite bhojpuri song": [
-            "Dil chi cha ledar",
-            "https://www.youtube.com/watch?v=dXzXdODxsZs"
-        ],
-        "Your favourite senior name": [
-            "Mudit Agrawaal"
-        ],
-        "Best youtube video you ever watched": [
-         " Rj Praveen cheggy vedio",
-            "https://www.youtube.com/watch?v=2emvXuz8JIU&ab_channel=RJPRAVEEN"
-        ],
-        "Most useless skill you have": "All skill",
-        "Codeforces id": "https://codeforces.com/profile/shekharh433",
-        "Codechef id": "https://www.codechef.com/users/himanshu154",
-        "Atcoder id": "https://atcoder.jp/users/shekharh433",
-        "Discord username": "Himanshu Shekhar#7026",
-        "Instagram": "https://www.instagram.com/shekhar7130/"
-    },
     
         {
             "Name": "Sonali Gupta",
@@ -329,11 +298,6 @@
         "Atcoder id": "",
         "Discord username": "hargunkaur#2418",
         "Instagram": "https://www.instagram.com/_hargunkaur/"
-    }
-        "Codeforces id": "https://codeforces.com/profile/Aman999",
-        "Codechef id": "https://www.codechef.com/users/nanda_789",
-        "Discord username": "Noob_Developer",
-        "leetcode": "https://leetcode.com/_Am11/"
     },
 
   {
@@ -382,6 +346,22 @@
     "Atcoder id": "https://atcoder.jp/users/gaurav_123.",
     "Discord username": "Waldomor",
     "Instagram": "https://www.instagram.com/gaurav__sahay/"
-} 
+},
 
+  {
+    "Name": "Keshav Pandey",
+    "College": "Indian Institute Of Information Technology, Allahabad",
+    "Passout Year": "2025",
+    "Song that defines your relationship status": ["", ""],
+    "Your favourite hindi song": ["", ""],
+    "Your favourite bhojpuri song": ["", ""],
+    "Your favourite senior name": [""],
+    "Best youtube video you ever watched": ["", ""],
+    "Most useless skill you have": "",
+    "Codeforces id": "https://codeforces.com/profile/Rayyyyyyyyy",
+    "Codechef id": "https://www.codechef.com/users/rayyyyyy",
+    "Atcoder id": "",
+    "Discord username": "Ray.#5014",
+    "Instagram": "https://www.instagram.com/rayyyyy.exe/"
+  }
 ]
