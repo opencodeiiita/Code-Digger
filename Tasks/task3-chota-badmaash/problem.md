@@ -14,6 +14,14 @@ Note:
 - You need to calculate the Expectation modulo `998244353`
 - `ith` line of output must state the expected number of your friends in the Badmaash Gang after the `ith` recruitment.
 
+**How to print an Expectation modulo 998244353:**
+
+It can be proved that the sought Expectation is not always a rational number. Additionally, under the Constraints of this problem, the sought Expectation can be represented as an irreducible fraction `y/x`.
+
+Here, there is a unique integer `z` between 0 and 998244352 such that `xz ≡ y(mod 998244353)`. Print this `z`.
+
+-----
+
 Sample:
 Say the total number of students is `4` and the count of your friend group is `2`
 The recruitment drive is as follows:
