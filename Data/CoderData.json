@@ -157,11 +157,13 @@
             "https://www.youtube.com/watch?v=2emvXuz8JIU&ab_channel=RJPRAVEEN"
         ],
         "Most useless skill you have": "All skill",
-        "Codeforces id": "https://codeforces.com/profile/Aman999",
-        "Codechef id": "https://www.codechef.com/users/nanda_789",
-        "Discord username": "Noob_Developer",
-        "leetcode": "https://leetcode.com/_Am11/"
+        "Codeforces id": "https://codeforces.com/profile/shekharh433",
+        "Codechef id": "https://www.codechef.com/users/himanshu154",
+        "Atcoder id": "https://atcoder.jp/users/shekharh433",
+        "Discord username": "Himanshu Shekhar#7026",
+        "Instagram": "https://www.instagram.com/shekhar7130/"
     },
+    
         {
             "Name": "Sonali Gupta",
             "College": "Indian Institute of Information Technology, Allahabad",
@@ -238,7 +240,119 @@
     "Discord username": "Vedant#6268",
     "Instagram": ""
   },
+  
+   {
+        "Name": "Ribhav Bansal",
+        "College": "Indian Institute of Information Technology, Allahabad",
+        "Passout Year": "2025",
+        "Song that defines your relationship status": [
+            "Baby",
+            "https://www.youtube.com/watch?v=kffacxfA7G4"
+        ],
+        "Your favourite hindi song": [
+            "Tu jaane na",
+            "https://www.youtube.com/watch?v=t8Z2qM07Ugg"
+        ],
+        "Your favourite bhojpuri song": [
+            ""
+        ],
+        "Your favourite senior name": [
+            "Anubhav sir"
+        ],
+        "Best youtube video you ever watched": [
+            "Don't waste your time",
+            "https://www.youtube.com/watch?v=AwRfvtCpdiQ"
+        ],
+        "Most useless skill you have": "sleep skill",
+        "Codeforces id": "https://codeforces.com/profile/ribhav29",
+        "Codechef id": "https://www.codechef.com/users/ribhav_32",
+        "Atcoder id": "https://atcoder.jp/users/R_Bansal",
+        "Discord username": "ThunderBeast#1696",
+        "Instagram": "https://www.instagram.com/ribhav_3226/"
+    },
+    
+   {
+        "Name": "Nikunj Gupta",
+        "College": "Indian Institute of Information Technology, Allahabad",
+        "Passout Year": "2025",
+        "Song that defines your relationship status": [
+          "prem ki naiyya",
+          "https://youtu.be/J3Ux5TQ4oUc"
+        ],
+        "Your favourite hindi song": [
+          "Agar tum saath ho",
+          "https://youtu.be/sK7riqg2mr4"
+        ],
+        "Your favourite bhojpuri song": [
+          "",
+          ""
+        ],
+        "Your favourite senior name": [""],
+        "Best youtube video you ever watched": [
+          "",
+          ""
+        ],
+        "Most useless skill you have": "Each skill",
+        "Codeforces id": "https://codeforces.com/profile/Finesse734",
+        "Codechef id": "https://www.codechef.com/users/genie734",
+        "Atcoder id": "",
+        "Discord username": "LazyForever#0304",
+        "Instagram": "https://www.instagram.com/nikunj_734/"
+      },
+      
+       {
+        "Name": "Hargun Kaur",
+        "College": "Guru Tegh Bahadur Institute of Technology",
+        "Passout Year": "2025",
+        "Song that defines your relationship status": [
+            "Yeh Ishq Hai",
+            "https://www.youtube.com/watch?v=b_sCZbYyuO4"
+        ],
+        "Your favourite hindi song": [
+            "Kabhi Kabhi Aditi Zindagi",
+            "https://www.youtube.com/watch?v=HIbzXaBdwZw"
+        ],
+        "Your favourite bhojpuri song": [
+            "Chat Deni Maar Deli",
+            "https://www.youtube.com/watch?v=8jF5RmI2YNU"
+        ],
+        "Your favourite senior name": [
+            "Vanshika Goel"
+        ],
+        "Best youtube video you ever watched": [
+            "NO EXCUSES",
+            "https://www.youtube.com/watch?v=wnHW6o8WMas"
+        ],
+        "Most useless skill you have": "All skill",
+        "Codeforces id": "https://codeforces.com/profile/hargunkaur286",
+        "Codechef id": "https://www.codechef.com/users/hargunkaur",
+        "Atcoder id": "",
+        "Discord username": "hargunkaur#2418",
+        "Instagram": "https://www.instagram.com/_hargunkaur/"
+    }
+        "Codeforces id": "https://codeforces.com/profile/Aman999",
+        "Codechef id": "https://www.codechef.com/users/nanda_789",
+        "Discord username": "Noob_Developer",
+        "leetcode": "https://leetcode.com/_Am11/"
+    },
 
+  {
+    "Name": "Ananya",
+    "College": "Indian Institute Of Information Technology, Allahabad",
+    "Passout Year": "2025",
+    "Song that defines your relationship status": ["", ""],
+    "Your favourite hindi song": ["", ""],
+    "Your favourite bhojpuri song": ["None", "None"],
+    "Your favourite senior name": [""],
+    "Best youtube video you ever watched": ["", ""],
+    "Most useless skill you have": "",
+    "Codeforces id": "https://codeforces.com/profile/ag_220791",
+    "Codechef id": "https://www.codechef.com/users/ag_220791",
+    "Atcoder id": "",
+    "Discord username": "ananya_07",
+    "Instagram": "https://www.instagram.com/ananyaaag_07/"
+  },
+  
   {
     "Name": "Gaurav Sahay",
     "College": "Indian Institute of Information Technology, Allahabad",
@@ -269,4 +383,5 @@
     "Discord username": "Waldomor",
     "Instagram": "https://www.instagram.com/gaurav__sahay/"
 } 
+
 ]
