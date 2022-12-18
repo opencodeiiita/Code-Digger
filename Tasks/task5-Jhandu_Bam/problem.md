@@ -20,6 +20,7 @@ The second line contains n integers a1, a2,..., and an (-1e9<=ai<=1e9), which is
 
 Example:
 
+```
 Input
 2
 4
@@ -30,3 +31,5 @@ Input
 Output:
 YES
 NO 
+
+```
