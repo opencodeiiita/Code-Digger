@@ -84,6 +84,33 @@
     "Discord username": "Noob_Developer",
     "leetcode": "https://leetcode.com/_Am11/"
   },
+  {
+    "Name": "Siddhant Agarwal",
+    "College": "Indian Institute of Information Technology, Allahabad",
+    "Passout Year": "2024",
+    "Song that defines your relationship status": [
+      "Dhokha",
+      "https://www.youtube.com/watch?v=2JBYnvUlAEc&ab_channel=T-Series"
+    ],
+    "Your favourite hindi song": [
+      "Kesariya tera ishq hai piya",
+      "https://www.youtube.com/watch?v=BddP6PYo2gs&ab_channel=SonyMusicIndia"
+    ],
+    "Your favourite bhojpuri song": [
+      "Dil chi cha ledar",
+      "https://www.youtube.com/watch?v=dXzXdODxsZs"
+    ],
+    "Your favourite senior name": ["Anirudh Gupta"],
+    "Best youtube video you ever watched": [
+      " Rj Praveen cheggy vedio",
+      "https://www.youtube.com/watch?v=2emvXuz8JIU&ab_channel=RJPRAVEEN"
+    ],
+    "Most useless skill you have": "All skill",
+    "Codeforces id": "https://codeforces.com/profile/siddhant4583agarwal",
+    "Codechef id": "https://www.codechef.com/users/siddhant_agarw",
+    "Discord username": "SIDDHANT Agarwal#0016",
+    "leetcode": "https://leetcode.com/Siddhant-Agarwal4583/"
+  },
 
   {
     "Name": "Atif Moin",
@@ -101,7 +128,7 @@
     "Discord username": "iamatifmoin#5911",
     "Instagram": "https://www.instagram.com/iamatifmoin/"
   },
-  
+
   {
         "Name": "Piyush Gawade",
         "College": "Indian Institute of Information Technology, Allahabad",
@@ -131,8 +158,8 @@
         "Atcoder id": "",
         "Discord username": "Piyush#8233",
         "Instagram": "https://www.instagram.com/piyush_g_g/"
-    }, 
-    
+    },
+
         {
             "Name": "Sonali Gupta",
             "College": "Indian Institute of Information Technology, Allahabad",
@@ -163,7 +190,7 @@
             "Discord username": "Shining dawn#2420",
             "Instagram": "https://www.instagram.com/_sonalibyahut/"
         },
-    
+
     {
       "Name": "Pratham Bhatia",
       "College": "Indian Institute of Information Technology, Allahabad",
@@ -192,7 +219,7 @@
       "Discord username": "pbshayar #1402",
       "Instagram": "https://www.instagram.com/pratham291929/"
     },
- 
+
    {
     "Name": "Vedant Borkar",
     "College": "Indian Institute Of Information Technology, Allahabad",
@@ -209,7 +236,7 @@
     "Discord username": "Vedant#6268",
     "Instagram": ""
   },
-  
+
    {
         "Name": "Ribhav Bansal",
         "College": "Indian Institute of Information Technology, Allahabad",
@@ -239,7 +266,7 @@
         "Discord username": "ThunderBeast#1696",
         "Instagram": "https://www.instagram.com/ribhav_3226/"
     },
-    
+
    {
         "Name": "Nikunj Gupta",
         "College": "Indian Institute of Information Technology, Allahabad",
@@ -268,7 +295,7 @@
         "Discord username": "LazyForever#0304",
         "Instagram": "https://www.instagram.com/nikunj_734/"
       },
-      
+
        {
         "Name": "Hargun Kaur",
         "College": "Guru Tegh Bahadur Institute of Technology",
@@ -316,7 +343,7 @@
     "Discord username": "ananya_07",
     "Instagram": "https://www.instagram.com/ananyaaag_07/"
   },
-  
+
   {
     "Name": "Gaurav Sahay",
     "College": "Indian Institute of Information Technology, Allahabad",
@@ -616,5 +643,51 @@
     "Atcoder id": "",
     "Discord username": "AyushC24#7410",
     "Instagram": ""
+  },
+  
+   {
+    "Name": "Srijan jain",
+    "College": "Indian Institute of Information Technology, Allahabad",
+    "Passout Year": "2026",
+    "Song that defines your relationship status": [
+      "sed life",
+      "https://youtu.be/3AtDnEC4zak"
+    ],
+    "Your favourite hindi song": [
+      "Dooriyan",
+      "https://youtu.be/VDrO044VHpY"
+    ],
+    "Your favourite English song": [
+      "Unholy",
+      "https://youtu.be/Uq9gPaIzbe8"
+    ],
+    "Your favourite senior name": ["whoever is reading this"],
+    "Best youtube video you ever watched": [
+      "The Lost Pyramid ",
+      "https://youtu.be/-mt8aNy1M00"
+    ],
+    "Most useless skill you have": "All skill",
+    "Codeforces id": "https://codeforces.com/profile/Fremder",
+    "Codechef id": "https://www.codechef.com/users/srijanjain2004",
+    "Atcoder id": "",
+    "Discord username": "srijan#9474",
+    "Instagram": "https://www.instagram.com/srijan4500/"
+  },
+  
+  {
+    "Name": "Agrim Nauriyal",
+    "College": "Indian Institute Of Information Technology, Allahabad",
+    "Passout Year": "2026",
+    "Song that defines your relationship status": ["", ""],
+    "Your favourite hindi song": ["", ""],
+    "Your favourite bhojpuri song": ["", ""],
+    "Your favourite senior name": [""],
+    "Best youtube video you ever watched": ["", ""],
+    "Most useless skill you have": "",
+    "Codeforces id": "https://codeforces.com/profile/agrim07",
+    "Codechef id": "https://www.codechef.com/users/agrim07",
+    "Atcoder id": "",
+    "Discord username": "agrim07#3424",
+    "Instagram": "https://www.instagram.com/agrim07/"
   }
 ]
