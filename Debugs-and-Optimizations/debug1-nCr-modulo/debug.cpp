@@ -1,42 +1,55 @@
 #include <bits/stdc++.h>
+using namespace std;
 
-#define int long long
-const int mod = 998244353;
-const int N = 2e5;
+const long long int mod =1e9+7;
+const long long int N = 2e5; 
 
-vector<int> fac(N+5, 1);
+vector<long long int> fac(N+5);
  
-int pow_(int a, int b) {
+int pow_(long long int a, long long int b) {
     if(b == 0) return 1;
     if(b == 1) return a;
     if(b&1){
-        return (a * pow_(a, b-1))%mod;
+    	long long int t = a * pow_(a, b-1);
+        return (t)%mod;
     }
-    int k = pow_(a, b/2);
-    return k*k;
+    long long int k = pow_(a, b/2);
+    long long r = k*k;
+    return r%mod;
 }
 
-int fact(int n){
-    if(fac[n] != -1){
-        return fac[n];
+int fact(long long int n){
+    if(n == 0){
+        return 1;
     }
-    return fac[n] = n * fact(n+1);
+    long long int z = (n * fact(n-1))%mod;
+    return z ;
+    
 }
 
-int nCr(int n, int r){
+int nCr( long long int n, long long int r){
     if(r < 0) return 0;
     if(r == 0) return 1;
-    if(n > r) return 0;
+    if(n < r) return 0;
     int k = n-r;
-    int n1 = fac[n]%mod;
-    r = fac[r]%mod;
-    int nr = fac[k]%mod;
-    int ans = ((n1 * pow_(r, mod-1)) % mod) * (pow_(nr, mod-2) % mod);
+    long long int n1 = fact(n)%mod;
+    r = fact(r)%mod;
+    long long int nr = fact(k)%mod;
+    long long w = n1 * pow_(r, mod-2); long long u = pow_(nr, mod-2);
+    long long int ans1 = (w % mod) * (u % mod);
+    long long int ans = (ans1 %mod ) ;
     return ans;
 }
 
-void main(){
-    int n, r; cin>>n>>r;
-    cout<<nCr(n, r)<<"\n";
+int main(){
+     long long int n, r; cin>>n>>r;
+     
+     cout<<nCr(n,r)<<"\n";
+
+	
+
 }
 
+
+
+//first merge hahaha
