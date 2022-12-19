@@ -27,7 +27,7 @@ The third line of the input contains three integers b1,b2, and b3 (0≤bj≤n) �
 
 Example:
 
-'''
+```
 Input:
 2
 0 1 1
@@ -44,4 +44,4 @@ Input:
 Output:
 22 334
 
-'''
+```
