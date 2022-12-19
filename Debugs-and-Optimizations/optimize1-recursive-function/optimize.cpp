@@ -20,7 +20,7 @@ int32_t main(){
 	cout<<"f = "<<f(x, y)<<"\n";
 
 	auto end = std::chrono::high_resolution_clock::now();
-    auto elapsed = std::chrono::duration_cast<std::chrono::nanoseconds>(end - begin);
-    cout << "Time measured: " << elapsed.count() * 1e-6 << "ms\n"; 
-    return 0;
+    	auto elapsed = std::chrono::duration_cast<std::chrono::nanoseconds>(end - begin);
+    	cout << "Time measured: " << elapsed.count() * 1e-6 << "ms\n"; 
+    	return 0;
 }
