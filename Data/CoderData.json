@@ -267,6 +267,23 @@
         "Instagram": "https://www.instagram.com/ribhav_3226/"
     },
 
+    {
+      "Name": "Aynansh Khandelwal",
+      "College": "Indian Institute Of Information Technology, Allahabad",
+      "Passout Year": "2025",
+      "Song that defines your relationship status": ["", ""],
+      "Your favourite hindi song": ["", ""],
+      "Your favourite bhojpuri song": ["", ""],
+      "Your favourite senior name": [""],
+      "Best youtube video you ever watched": ["", ""],
+      "Most useless skill you have": "Procrastination",
+      "Codeforces id": "https://codeforces.com/profile/ayk_2002",
+      "Codechef id": "https://www.codechef.com/users/ayk_19",
+      "Atcoder id": "",
+      "Discord username": "Ayk#0697",
+      "Instagram": "https://www.instagram.com/aynanshkhandelwal/"
+    },
+  
    {
         "Name": "Nikunj Gupta",
         "College": "Indian Institute of Information Technology, Allahabad",
@@ -620,6 +637,30 @@
     "Discord username": "Hooman#2821",
     "Instagram": "https://www.instagram.com/atulbraj/"
   },
+  {
+    "Name": "Ayush Chandra",
+    "College": "Indian Institute of Information Technology Allahabad",
+    "Passout Year": "2025",
+    "Song that defines your relationship status": [
+    "Ik Vaari Aa", 
+    "https://www.youtube.com/watch?v=zXLgYBSdv74"],
+    "Your favourite hindi song": [
+    "Mere Haath Mein", 
+    "https://www.youtube.com/watch?v=qtz5mpvgAM0"],
+    "Your favourite bhojpuri song": [
+    "Lollypop Lagelu", 
+    "https://www.youtube.com/watch?v=QQUBrXUAxSs"],
+    "Your favourite senior name": ["Ansh Gupta"],
+    "Best youtube video you ever watched": [
+    "Darshan Raval Concert", 
+    "https://www.youtube.com/watch?v=8ysPv8m8YoE"],
+    "Most useless skill you have": "Overthinking",
+    "Codeforces id": "https://codeforces.com/profile/ayushchandra73",
+    "Codechef id": "https://www.codechef.com/users/ayushc24",
+    "Atcoder id": "",
+    "Discord username": "AyushC24#7410",
+    "Instagram": ""
+  },
   
    {
     "Name": "Srijan jain",
@@ -665,5 +706,28 @@
     "Atcoder id": "",
     "Discord username": "agrim07#3424",
     "Instagram": "https://www.instagram.com/agrim07/"
+  },
+  {
+    "Name": "Ayashika Gupta",
+    "College": "Indian Institute of Information Technology, Allahabad",
+    "Passout Year": "2025",
+    "Song that defines your relationship status": [
+      "Tu mera koi na hoke bhi",
+      "https://youtu.be/AX4GjsLdrNI"
+    ],
+    "Your favourite hindi song": [
+      "Ek Tarfa",
+      "https://youtu.be/fIip0BH6z7I"
+    ],
+    "Your favourite bhojpuri song": [
+      "Lollypop",
+      "https://youtu.be/Gr8G_ldltDE"
+    ],
+    "Most useless skill you have": "",
+    "Codeforces id": "https://codeforces.com/profile/Ayashika_64",
+    "Codechef id": "https://www.codechef.com/users/ayg2",
+    "Atcoder id": "",
+    "Discord username": "ayashika_64#7338",
+    "Instagram": "https://www.instagram.com/ayashika_64/"
   }
 ]
