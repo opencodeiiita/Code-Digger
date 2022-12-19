@@ -9,7 +9,7 @@ It's too [cold](https://i.redd.it/qejjabgbq75a1.jpg) and you want to sleep; to a
 as fast as you can.
 
 Note: 
-- Total number of students in IIIT-A are `200000` and the strength of your friend group is `203`
+- Total number of students in IIIT-A are `200000` and the strength of your friend group is `10`
 - The recruitment data is given in `input.txt`
 - You need to calculate the Expectation modulo `998244353`
 - `ith` line of output must state the expected number of your friends in the Badmaash Gang after the `ith` recruitment.
