@@ -33,7 +33,7 @@ while(t--)
    { cin>>a[i];
    if(i+a[i]<=n&&i+a[i]>=0)
    unionn(i,i+a[i]);
-   if(i+a[i]-1>=0&&i+a[i]-1<=n)
+   if(i+a[i]-1>=0&&i+a[i]<=n)
    unionn(i,i+a[i]-1);
    }
    if(find(1)==find(n))
