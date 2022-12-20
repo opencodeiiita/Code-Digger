@@ -2,19 +2,6 @@
 #define int long long
 using namespace std;
 int par[100001];
-int find(int a)
-{
-    if(a==par[a])
-    return a;
-    else
-    return par[a]=find(par[a]);
-}
-void unionn(int a,int b)
-{
-    int x=find(a);
-    int y=find(b);
-    par[y]=x;
-}
 int32_t main()
 {
  ios_base::sync_with_stdio(false);
@@ -28,15 +15,32 @@ while(t--)
     int a[n+1];
     
     for(int i=1;i<=n;i++)
-    par[i]=i;
-    for(int i=1;i<=n;i++)
-   { cin>>a[i];
-   if(i+a[i]<=n&&i+a[i]>=0)
-   unionn(i,i+a[i]);
-   if(i+a[i]-1>=0&&i+a[i]<=n)
-   unionn(i,i+a[i]-1);
-   }
-   if(find(1)==find(n))
+   { par[i]=i;
+   cin>>a[i];}
+ queue<int>q;
+ q.push(1);
+ while(!q.empty())
+ {
+     int indx=q.front();
+     q.pop();
+     if(indx+a[indx]>=1&&indx+a[indx]<=n)
+     {
+         if(par[indx+a[indx]]==indx+a[indx])
+        { par[indx+a[indx]]=-1;
+         q.push(indx+a[indx]);
+        }
+        
+     }
+     if(indx+a[indx]-1>=1&&indx+a[indx]<=n)
+     {
+         if(par[indx+a[indx]-1]==indx+a[indx]-1)
+        { par[indx+a[indx]-1]=-1;
+         q.push(indx+a[indx]-1);
+        }
+        
+     }
+ }
+   if(par[n]==-1)
    cout<<"YES";
    else
    cout<<"NO";
