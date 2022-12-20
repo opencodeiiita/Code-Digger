@@ -10,6 +10,8 @@ int main(){
 		cin>>v[i];
 	}
 
+	sort(v.begin() , v.end());
+
 	int l = 0 ; int h = n-1;
 
 	while(h-l > 1){
