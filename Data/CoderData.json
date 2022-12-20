@@ -747,15 +747,16 @@
     "Your favourite bhojpuri song": [
       " ",
       ""
+    ],
     "Most useless skill you have": "sleep-all-day-24x7",
     "Codeforces id": "https://codeforces.com/profile/vishalola21",
     "Codechef id": "",
     "Atcoder id": "",
     "Discord username": "Torquitto",
     "Instagram": "https://www.instagram.com/vishalola21/"
-  },
+  }
   
-  {
+  ,{
     "Name": "Ishaan Oberoi",
     "College": "Indian Institute of Information Technology, Allahabad",
     "Passout Year": "2025",
@@ -770,10 +771,10 @@
     "Atcoder id": "https://atcoder.jp/users/ishaan_23o",
     "Discord username": "ishaan o. #7277",
     "Instagram": "https://www.instagram.com/ishaan23o/"
-  },
+  }
 
 
-  {
+  ,{
     "Name": "Riddhi Kedia",
     "College": "Indian Institute of Information Technology, Allahabad",
     "Passout Year": "2025",
@@ -790,7 +791,7 @@
     "Instagram": "https://www.instagram.com/riddhikedia5/"
     }
     
-   {
+   ,{
     "Name": "Karan Singh",
     "College": "Indian Institute of Information Technology, Allahabad",
     "Passout Year": "2026",
@@ -804,10 +805,9 @@
     "Codechef id": "https://www.codechef.com/users/karansenpai",
     "Discord username": "KD_Senpai",
     "Instagram": "https://www.instagram.com/deoli_karan/"
-
   }
 
-  {
+  ,{
     "Name": "Aman Kumar",
     "College": "Indian Institute of Information Technology, Allahabad",
     "Passout Year": "2025",
