@@ -747,15 +747,16 @@
     "Your favourite bhojpuri song": [
       " ",
       ""
+    ],
     "Most useless skill you have": "sleep-all-day-24x7",
     "Codeforces id": "https://codeforces.com/profile/vishalola21",
     "Codechef id": "",
     "Atcoder id": "",
     "Discord username": "Torquitto",
     "Instagram": "https://www.instagram.com/vishalola21/"
-  },
+  }
   
-  {
+  ,{
     "Name": "Ishaan Oberoi",
     "College": "Indian Institute of Information Technology, Allahabad",
     "Passout Year": "2025",
@@ -771,4 +772,118 @@
     "Discord username": "ishaan o. #7277",
     "Instagram": "https://www.instagram.com/ishaan23o/"
   }
+
+
+  ,{
+    "Name": "Riddhi Kedia",
+    "College": "Indian Institute of Information Technology, Allahabad",
+    "Passout Year": "2025",
+    "Song that defines your relationship status": ["", ""],
+    "Your favourite hindi song": ["Tum Se Hi", "https://www.youtube.com/watch?v=mt9xg0mmt28"],
+    "Your favourite bhojpuri song": ["", ""],
+    "Your favourite senior name": [""],
+    "Best youtube video you ever watched": ["", ""],
+    "Most useless skill you have": "sleeping",
+    "Codeforces id": "https://codeforces.com/profile/riddhikedia",
+    "Codechef id": "https://www.codechef.com/users/riddhi_kedia",
+    "Atcoder id": "",
+    "Discord username": "Riddhi Kedia #9179",
+    "Instagram": "https://www.instagram.com/riddhikedia5/"
+    }
+    
+   ,{
+    "Name": "Karan Singh",
+    "College": "Indian Institute of Information Technology, Allahabad",
+    "Passout Year": "2026",
+    "Song that defines your relationship status": ["https://www.youtube.com/watch?v=YR12Z8f1Dh8"],
+    "Your favourite hindi song": ["https://www.youtube.com/watch?v=uodD5k4XgQg"],
+    "Your favourite bhojpuri song": ["", ""],
+    "Your favourite senior name": ["Hooman Sir :)"],
+    "Best youtube video you ever watched": ["https://www.youtube.com/watch?v=dQw4w9WgXcQ"],
+    "Most useless skill you have": "Overthinking",
+    "Codeforces id": "https://codeforces.com/profile/KDSenpai",
+    "Codechef id": "https://www.codechef.com/users/karansenpai",
+    "Discord username": "KD_Senpai",
+    "Instagram": "https://www.instagram.com/deoli_karan/"
+  }
+
+  ,{
+    "Name": "Aman Kumar",
+    "College": "Indian Institute of Information Technology, Allahabad",
+    "Passout Year": "2025",
+    "Song that defines your relationship status": [
+      "Happy Alone",
+      "https://youtu.be/99lCEaMVRzc"
+    ],
+    "Your favourite hindi song": [
+      "Maan meri Jaan",
+      "https://youtu.be/VuG7ge_8I2Y"
+    ],
+    "Your favourite English song": [
+      "Comethru",
+      "https://youtu.be/jO2viLEW-1A"
+    ],
+    "Your favourite senior name": ["Sarvesh Chaudhary Sir"],
+    "Best youtube video you ever watched": [
+      "Lockdown with my crush || S1- Beginning || Swagger Sharma || Web Series",
+      "https://youtu.be/GyJ8xqNlHyU"
+    ],
+    "Most useless skill you have": "Talking too much and sleeping",
+    "Codeforces id": "https://codeforces.com/profile/itsaman1825",
+    "Codechef id": "https://www.codechef.com/users/itsaman1825",
+    "Atcoder id": "https://atcoder.jp/users/itsaman1825",
+    "Discord username": "itsaman_1825",
+    "Instagram": "https://www.instagram.com/aman._.kumar.02/   ," 
+  },
+  {
+    "Name": "Naysha Singh",
+    "College": "Indian Institute of Information Technology, Allahabad",
+    "Passout Year": "2025",
+    "Song that defines your relationship status": [
+      "",
+      ""
+    ],
+    "Your favourite hindi song": [
+      "KHAIRIYAT",
+      "https://www.youtube.com/watch?v=hoNb6HuNmU0"
+    ],
+    "Your favourite bhojpuri song": [
+      "",
+      ""
+    ],
+    "Your favourite senior name": ["Diya Waghmare"],
+    "Best youtube video you ever watched": [
+      "What Happens When You Die?",
+      "https://www.youtube.com/watch?v=vLaErMfgJ8Q"
+    ],
+    "Most useless skill you have": "Overthinking",
+    "Codeforces id": "https://codeforces.com/profile/infinity03",
+    "Codechef id": "https://www.codechef.com/users/naysha_23",
+    "Atcoder id": "",
+    "Discord username": "_infinity",
+    "Instagram": "https://www.instagram.com/nayshasingh_03/?hl=en"
+  },
+  {
+    "Name": "Bhumicka Bhaangaley",
+    "College": "Indian Institute of Technology, Madras",
+    "Passout Year": "2025",
+    "Song that defines your relationship status": [
+      "Willow",
+      "https://www.youtube.com/watch?v=RsEZmictANA"
+    ],
+    "Your favourite English song": [
+      "Calm Down",
+      "https://www.youtube.com/watch?v=WcIcVapfqXw"
+    ],
+    "Best youtube video you ever watched": [
+      "DON'T let trisha paytas speak in a microphone...",
+      "https://www.youtube.com/watch?v=2wejLXjw57w"
+    ],
+    "Most useless skill you have": "I can maintain a straight face in any situation - literally zero expressions.",
+    "Codeforces id": "https://codeforces.com/profile/bhumi-cka",
+    "Codechef id": "https://www.codechef.com/users/bhumxcka",
+    "Discord username": "Bhumicka #7481",
+    "Instagram": "https://www.instagram.com/_bhumxcka_/"
+  }
+
 ]
