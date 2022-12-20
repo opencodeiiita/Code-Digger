@@ -16,7 +16,7 @@ void solve(){
     edges=vector<vector<int>>(n+1);
     for(int i=0;i<n;i++){
         cin>>temp;
-        if(i+temp<=n-1)edges[i].push_back(i+temp);
+        if(i+temp<=n-1&&i+temp>=0)edges[i].push_back(i+temp);
         if(i!=0)edges[i].push_back(i-1);
     }
     cout<<(dfs(0)?"YES":"NO")<<endl;
