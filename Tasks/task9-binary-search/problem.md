@@ -1,0 +1,1 @@
+## Just implement binary search in your favorite language 
