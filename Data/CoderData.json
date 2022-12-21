@@ -424,6 +424,7 @@
     "Discord username": "Ray.#5014",
     "Instagram": "https://www.instagram.com/rayyyyy.exe/"
   },
+  
   {
     "Name": "Abhinav Anand",
     "College": "Indian Institute Of Information Technology, Allahabad",
@@ -440,6 +441,7 @@
     "Discord username": "jerry Abhinav",
     "Instagram": ""
   },
+  
   {
     "Name": "Vaibhav Bajaj",
     "College": "Indian Institute of Technology, Delhi",
@@ -839,6 +841,25 @@
     "Instagram": "https://www.instagram.com/deoli_karan/"
   }
 
+
+  },
+  {
+    "Name": "Riddhi Kedia",
+    "College": "Indian Institute of Information Technology, Allahabad",
+    "Passout Year": "2025",
+    "Song that defines your relationship status": ["", ""],
+    "Your favourite hindi song": ["Tum Se Hi", "https://www.youtube.com/watch?v=mt9xg0mmt28"],
+    "Your favourite bhojpuri song": ["", ""],
+    "Your favourite senior name": [""],
+    "Best youtube video you ever watched": ["", ""],
+    "Most useless skill you have": "sleeping",
+    "Codeforces id": "https://codeforces.com/profile/riddhikedia",
+    "Codechef id": "https://www.codechef.com/users/riddhi_kedia",
+    "Atcoder id": "",
+    "Discord username": "Riddhi Kedia #9179",
+    "Instagram": "https://www.instagram.com/riddhikedia5/"
+    }
+
   ,{
     "Name": "Aman Kumar",
     "College": "Indian Institute of Information Technology, Allahabad",
@@ -998,6 +1019,7 @@
     "Discord username": "jaimoryani#9018",
     "Instagram": "https://www.instagram.com/jai.moryani._/"
   },
+
  {
     "Name": "Shruti Bilolikar",
     "College": "Indian Institute of Information Technology, Allahabad",
@@ -1016,6 +1038,70 @@
     "Atcoder id": ",",
     "Discord username": "Dunno #09353",
     "Instagram": "https://www.instagram.com/shruti_8403/?next=%2F"
-  }
+  },
 
+  {
+    "Name": "Sanyam Agrawal",
+    "College": "Indian Institute of Information Technology, Allahabad",
+    "Passout Year": "2025",
+    "Song that defines your relationship status": ["Prem ki Naiyya"],
+    "Your favourite hindi song": ["",""],
+    "Your favourite bhojpuri song": ["Pandey Ji ka Beta Hu","For link contact Pavitra Pandey"],
+    "Most useless skill you have": "",
+    "Codeforces id": "https://codeforces.com/profile/Sam_0708",
+    "Codechef id": "https://www.codechef.com/users/sanyam_0708",
+    "Atcoder id": "https://atcoder.jp/users/SanyamAgrawal07",
+    "Discord username": "Buzzinga#2932",
+    "Instagram": "https://www.instagram.com/agrawalsanyam07/"
+  },
+
+  {
+    "Name": "Akshat Singh",
+    "College": "Indian Institute of Information Technology, Allahabad",
+    "Passout Year": "2025",
+    "Song that defines your relationship status": [
+      "",
+      ""
+    ],
+    "Your favourite hindi song": [
+      "Glitch",
+      "https://www.youtube.com/watch?v=5v5bghU3tjE"
+    ],
+    "Your favourite bhojpuri song": [
+      "Pandey Ji Ka beta",
+      "https://www.youtube.com/watch?v=3OVBDbI20L8"
+    ],
+    "Your favourite senior name": [""],
+    "Best youtube video you ever watched": [
+      "",
+      ""
+    ],
+    "Most useless skill you have": "Sleeping",
+    "Codeforces id": "https://codeforces.com/profile/akshatsgh",
+    "Codechef id": "https://www.codechef.com/users/akshatsgh",
+    "Atcoder id": "https://atcoder.jp/users/akshatsgh",
+    "Discord username": "strange#0227",
+    "Instagram": "https://www.instagram.com/akshatsgh/"
+  }
+  
+  ,{
+    "Name": "Ashutosh Sahu",
+    "College": "Indian Institute of Information Technology, Allahabad",
+    "Passout Year": "2026",
+    "Song that defines your relationship status": ["",""],
+    "Your favourite hindi song": ["",""],
+    "Your favourite bhojpuri song": ["",""],
+    "Your favourite senior name": [""],
+    "Best youtube video you ever watched": [
+      "",
+      ""
+    ],
+    "Most useless skill you have": "",
+    "Codeforces id": "https://codeforces.com/profile/ashu14",
+    "Codechef id": "https://www.codechef.com/users/ashutosh14",
+    "Atcoder id": ",",
+    "Discord username": "ASHU#2783",
+    "Instagram": ""
+  }
+  
 ]
