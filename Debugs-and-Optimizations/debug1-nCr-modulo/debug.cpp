@@ -1,42 +1,42 @@
 #include <bits/stdc++.h>
-
+using namespace std;
 #define int long long
 const int mod = 998244353;
 const int N = 2e5;
 
-vector<int> fac(N+5, 1);
- 
 int pow_(int a, int b) {
     if(b == 0) return 1;
-    if(b == 1) return a;
+    a = a%mod;
+    int k = pow_(a, b/2) % mod;
+    k = (k*k)%mod;
     if(b&1){
-        return (a * pow_(a, b-1))%mod;
+        return (a%mod * k%mod)%mod;
     }
-    int k = pow_(a, b/2);
-    return k*k;
+    return k;
 }
 
-int fact(int n){
+int fact(int n,vector<int> &fac){
+    if(n == 0)return fac[n] = 1;
     if(fac[n] != -1){
         return fac[n];
     }
-    return fac[n] = n * fact(n+1);
+    return fac[n] = ((n%mod) * (fact(n-1,fac)%mod))%mod;
 }
 
-int nCr(int n, int r){
+int nCr(int n, int r, vector<int> &fac){
     if(r < 0) return 0;
     if(r == 0) return 1;
-    if(n > r) return 0;
-    int k = n-r;
+    if(n < r) return 0;
+    int k = (n-r)%mod;
     int n1 = fac[n]%mod;
-    r = fac[r]%mod;
-    int nr = fac[k]%mod;
-    int ans = ((n1 * pow_(r, mod-1)) % mod) * (pow_(nr, mod-2) % mod);
+    int nr = (fac[k]%mod * fac[r]%mod)%mod;
+    int ans = ((n1%mod) * (pow_(nr, mod-2) % mod))%mod;
     return ans;
 }
 
-void main(){
+int32_t main(){
     int n, r; cin>>n>>r;
-    cout<<nCr(n, r)<<"\n";
+    vector<int> fac(N+5, -1);
+    fact(n,fac);
+    cout<<nCr(n, r, fac)<<"\n";
 }
-
