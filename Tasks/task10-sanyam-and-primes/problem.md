@@ -21,4 +21,4 @@ Sample Output:
 ```
 
 #### Note:
-You must code an efficient solution. It should run under `1.5s` on a local machine.
+You must code an efficient solution. It should run under `1.5s` on your local machine.
