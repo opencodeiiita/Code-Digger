@@ -839,10 +839,8 @@
     "Codechef id": "https://www.codechef.com/users/karansenpai",
     "Discord username": "KD_Senpai",
     "Instagram": "https://www.instagram.com/deoli_karan/"
-  }
-
-
   },
+
   {
     "Name": "Riddhi Kedia",
     "College": "Indian Institute of Information Technology, Allahabad",
@@ -1102,7 +1100,9 @@
     "Atcoder id": ",",
     "Discord username": "ASHU#2783",
     "Instagram": ""
-  }
+  },
+
+  {
     "Name": "Sahul Kumar",
     "College": "Indian Institute of Information Technology, Allahabad",
     "Passout Year": "2026",
@@ -1121,6 +1121,6 @@
     "Leetcode id": "https://leetcode.com/InnocentSinner/",
     "Discord username": "sahul_adhir#8345",
     "Instagram": "https://www.instagram.com/sahul_adhir/"
-  },
+  }
   
 ]
