@@ -2,7 +2,7 @@
 
 Sanyam is a berozgaar and a [nalla](https://i.redd.it/70ur0veyu23a1.jpg); he has nothing to do so he plays with large numbers
 
-One day, as he was subtracting numbers from their [prime](https://i.redd.it/gksawnbn0qs91.jpg) factors, he noticed that some numbers reached 0 faster than others.
+One day, as he was subtracting [prime](https://i.redd.it/gksawnbn0qs91.jpg) factors from the numbers, he noticed that some numbers reached 0 faster than others.
 
 As he's nalla he wont solve this problem. He hands this problem to you.
 
