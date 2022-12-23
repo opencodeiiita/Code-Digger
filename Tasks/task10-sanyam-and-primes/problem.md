@@ -18,7 +18,7 @@ Sample Input:
 Sample Output:
 ```
 1 (Subtract 2 from 2 as its prime)
-2 (Subtract 3 from 9 -> 6 subtract 3 -> 3 subtract 3 -> 0)
+3 (Subtract 3 from 9 -> 6 subtract 3 -> 3 subtract 3 -> 0)
 4 (18->16->14->7->0)
 ```
 
