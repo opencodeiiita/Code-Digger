@@ -1,6 +1,6 @@
 ## Task-2 Editorial
 
-The problem is also based on observation.
+The problem is based on observation.
 
 We are reading each line of the input file character by character.
 whenever we find 4 consecutive stars(\*) together, we increment the counter variable `c` by 1
