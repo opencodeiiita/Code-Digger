@@ -13,6 +13,8 @@ What is the `minimum` number of moves you need to perform to reach a safe config
 
 Not: You only convince boys to move left or down, Because girls don't hear anyone.
 
+Coordinate (0,0) is present at left-botton. 
+
 
 Input:
 
