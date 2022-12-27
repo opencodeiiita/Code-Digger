@@ -61,11 +61,11 @@ Beautiful Number #60:
 Beautiful Number #61: 
 Beautiful Number #62: 
 Beautiful Number #63: 
-Beautiful Number #64: 
-Beautiful Number #65: 
-Beautiful Number #66: 
-Beautiful Number #67: 
-Beautiful Number #68: 
+Beautiful Number #64: 142
+Beautiful Number #65: 146
+Beautiful Number #66: 147
+Beautiful Number #67: 149
+Beautiful Number #68: 151
 Beautiful Number #69: 155
 Beautiful Number #70: 156
 Beautiful Number #71: 158
