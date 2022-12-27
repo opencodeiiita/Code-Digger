@@ -28,11 +28,11 @@ Beautiful Number #27: 59
 Beautiful Number #28: 61
 Beautiful Number #29: 65
 Beautiful Number #30: 66
-Beautiful Number #31: 
-Beautiful Number #32: 
-Beautiful Number #33: 
-Beautiful Number #34: 
-Beautiful Number #35: 
+Beautiful Number #31: 68
+Beautiful Number #32: 70
+Beautiful Number #33: 74
+Beautiful Number #34: 75
+Beautiful Number #35: 77
 Beautiful Number #36: 
 Beautiful Number #37: 
 Beautiful Number #38: 
