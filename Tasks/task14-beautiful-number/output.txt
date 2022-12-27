@@ -35,14 +35,14 @@ Beautiful Number #34: 75
 Beautiful Number #35: 77
 Beautiful Number #36: 79
 Beautiful Number #37: 83
-Beautiful Number #38: 86
-Beautiful Number #39: 88
-Beautiful Number #40: 92
-Beautiful Number #41: 
-Beautiful Number #42: 
-Beautiful Number #43: 
-Beautiful Number #44: 
-Beautiful Number #45: 
+Beautiful Number #38: 84
+Beautiful Number #39: 86
+Beautiful Number #40: 88
+Beautiful Number #41: 92
+Beautiful Number #42: 93
+Beautiful Number #43: 95
+Beautiful Number #44: 97
+Beautiful Number #45: 101
 Beautiful Number #46: 
 Beautiful Number #47: 
 Beautiful Number #48: 
