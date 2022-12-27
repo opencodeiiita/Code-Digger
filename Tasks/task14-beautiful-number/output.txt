@@ -33,11 +33,11 @@ Beautiful Number #32: 70
 Beautiful Number #33: 74
 Beautiful Number #34: 75
 Beautiful Number #35: 77
-Beautiful Number #36: 
-Beautiful Number #37: 
-Beautiful Number #38: 
-Beautiful Number #39: 
-Beautiful Number #40: 
+Beautiful Number #36: 79
+Beautiful Number #37: 83
+Beautiful Number #38: 84
+Beautiful Number #39: 86
+Beautiful Number #40: 88
 Beautiful Number #41: 
 Beautiful Number #42: 
 Beautiful Number #43: 
