@@ -76,11 +76,12 @@ Beautiful Number #75: 167
 Beautiful Number #76: 169
 Beautiful Number #77: 173
 Beautiful Number #78: 174
-Beautiful Number #79: 
-Beautiful Number #80: 
-Beautiful Number #81: 
-Beautiful Number #82: 
-Beautiful Number #83: 
+
+Beautiful Number #79: 176
+Beautiful Number #80: 178
+Beautiful Number #81: 182
+Beautiful Number #82: 183
+Beautiful Number #83: 185
 Beautiful Number #84: 
 Beautiful Number #85: 
 Beautiful Number #86: 
