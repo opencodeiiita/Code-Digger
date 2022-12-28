@@ -71,11 +71,11 @@ Beautiful Number #70: 156
 Beautiful Number #71: 158
 Beautiful Number #72: 160
 Beautiful Number #73: 164
-Beautiful Number #74: 
-Beautiful Number #75: 
-Beautiful Number #76: 
-Beautiful Number #77: 
-Beautiful Number #78: 
+Beautiful Number #74: 165
+Beautiful Number #75: 167
+Beautiful Number #76: 169
+Beautiful Number #77: 173
+Beautiful Number #78: 174
 Beautiful Number #79: 
 Beautiful Number #80: 
 Beautiful Number #81: 
