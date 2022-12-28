@@ -86,11 +86,11 @@ Beautiful Number #85:
 Beautiful Number #86: 
 Beautiful Number #87: 
 Beautiful Number #88: 
-Beautiful Number #89: 
-Beautiful Number #90: 
-Beautiful Number #91: 
-Beautiful Number #92: 
-Beautiful Number #93: 
+Beautiful Number #89: 200
+Beautiful Number #90: 201
+Beautiful Number #91: 203
+Beautiful Number #92: 205
+Beautiful Number #93: 209
 Beautiful Number #94: 
 Beautiful Number #95: 
 Beautiful Number #96: 
