@@ -43,11 +43,11 @@ Beautiful Number #42: 93
 Beautiful Number #43: 95
 Beautiful Number #44: 97
 Beautiful Number #45: 101
-Beautiful Number #46: 
-Beautiful Number #47: 
-Beautiful Number #48: 
-Beautiful Number #49: 
-Beautiful Number #50: 
+Beautiful Number #46: 102
+Beautiful Number #47: 104
+Beautiful Number #48: 106
+Beautiful Number #49: 110
+Beautiful Number #50: 111
 Beautiful Number #51: 
 Beautiful Number #52: 
 Beautiful Number #53: 
