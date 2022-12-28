@@ -48,11 +48,11 @@ Beautiful Number #47: 104
 Beautiful Number #48: 106
 Beautiful Number #49: 110
 Beautiful Number #50: 111
-Beautiful Number #51: 
-Beautiful Number #52: 
-Beautiful Number #53: 
-Beautiful Number #54: 
-Beautiful Number #55: 
+Beautiful Number #51: 113
+Beautiful Number #52: 115
+Beautiful Number #53: 119
+Beautiful Number #54: 120
+Beautiful Number #55: 122
 Beautiful Number #56: 
 Beautiful Number #57: 
 Beautiful Number #58: 
