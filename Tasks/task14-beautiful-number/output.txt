@@ -81,11 +81,11 @@ Beautiful Number #80:
 Beautiful Number #81: 
 Beautiful Number #82: 
 Beautiful Number #83: 
-Beautiful Number #84: 
-Beautiful Number #85: 
-Beautiful Number #86: 
-Beautiful Number #87: 
-Beautiful Number #88: 
+Beautiful Number #84: 200
+Beautiful Number #85: 201
+Beautiful Number #86: 203
+Beautiful Number #87: 205
+Beautiful Number #88: 209
 Beautiful Number #89: 
 Beautiful Number #90: 
 Beautiful Number #91: 
