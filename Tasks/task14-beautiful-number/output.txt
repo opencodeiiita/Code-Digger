@@ -53,11 +53,11 @@ Beautiful Number #52: 115
 Beautiful Number #53: 120
 Beautiful Number #54: 122
 Beautiful Number #55: 124
-Beautiful Number #56: 
-Beautiful Number #57: 
-Beautiful Number #58: 
-Beautiful Number #59: 
-Beautiful Number #60: 
+Beautiful Number #56: 300 
+Beautiful Number #57: 302
+Beautiful Number #58: 500
+Beautiful Number #59: 502
+Beautiful Number #60: 700
 Beautiful Number #61: 
 Beautiful Number #62: 
 Beautiful Number #63: 
