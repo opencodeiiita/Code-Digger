@@ -91,10 +91,10 @@ Beautiful Number #90: 201
 Beautiful Number #91: 203
 Beautiful Number #92: 205
 Beautiful Number #93: 209
-Beautiful Number #94: 210
-Beautiful Number #95: 212
-Beautiful Number #96: 214
-Beautiful Number #97: 218
-Beautiful Number #98: 219
+Beautiful Number #94: 
+Beautiful Number #95: 
+Beautiful Number #96: 
+Beautiful Number #97: 
+Beautiful Number #98: 
 Beautiful Number #99: 
 Beautiful Number #100: 
