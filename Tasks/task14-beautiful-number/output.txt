@@ -58,9 +58,9 @@ Beautiful Number #57: 128
 Beautiful Number #58: 129
 Beautiful Number #59: 131
 Beautiful Number #60: 133
-Beautiful Number #61: 
-Beautiful Number #62: 
-Beautiful Number #63: 
+Beautiful Number #61: 137
+Beautiful Number #62: 138
+Beautiful Number #63: 140
 Beautiful Number #64: 142
 Beautiful Number #65: 146
 Beautiful Number #66: 147
@@ -96,5 +96,5 @@ Beautiful Number #95: 212
 Beautiful Number #96: 214
 Beautiful Number #97: 218
 Beautiful Number #98: 219
-Beautiful Number #99: 
-Beautiful Number #100: 
+Beautiful Number #99: 221
+Beautiful Number #100:223 
