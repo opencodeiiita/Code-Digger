@@ -96,5 +96,8 @@ Beautiful Number #95: 212
 Beautiful Number #96: 214
 Beautiful Number #97: 218
 Beautiful Number #98: 219
-Beautiful Number #99: 
-Beautiful Number #100: 
+Beautiful Number #99: 221
+Beautiful Number #100: 223
+Beautiful Number #101: 227
+Beautiful Number #102: 228
+Beautiful Number #103: 230
