@@ -9,14 +9,14 @@ Next, it iterates through the input array and calls the function `f()` on each c
 ```cpp
 if (i < 0 || j < 0 || i > ht || j > wt || v[i][j] != 1)
         return 0;
-```cpp
+```
 
 This block first checks if the current indices are out of bounds or if the current character is not part of an "Among Us" group. If either of these conditions are true, it returns 0. Otherwise, it marks the current character as part of a group by setting the corresponding element in the input array to 2.
 
 
 ```cpp
 return 1 + f(v, i + 1, j, wt, ht) + f(v, i - 1, j, wt, ht) + f(v, i, j + 1, wt, ht) + f(v, i, j - 1, wt, ht);
-```cpp
+```
 
 
 This block indicates that it then returns 1 plus the number of "Among Us" characters in the group found by calling f() on the characters in the four adjacent cells i.e `up`, `down`, `left` , and `right`.
