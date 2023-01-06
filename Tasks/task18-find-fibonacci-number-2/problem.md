@@ -13,9 +13,9 @@ i.e -> 0 1 1 2 3 5 ....  Fibonacci sequence.
 
 Constraints:
 
-1 <= t <=100
+1 <= t <=10
 
-1 <= n <= 1e5
+1 <= n <= 1e16
 
 
 ```
