@@ -11,6 +11,8 @@ F(0) = 0 , F(1) = 1 , Fn = F(n-1) + F(n-2).
 
 i.e -> 0 1 1 2 3 5 ....  Fibonacci sequence.
 
+Output the ans with modulo 1e9+7.
+
 Constraints:
 
 1 <= t <=10
