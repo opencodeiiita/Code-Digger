@@ -14,6 +14,32 @@ typedef vector<bool> vb;
 #define mod 1000000007
 #define mod1 998244353
 
+ll loop(ll mid,ll k){
+   ll pro=1;
+   for(int i=0 ; i<k ; i++){
+      pro*=mid;
+   }
+   return pro;
+}
+
+ll kth_root(ll n,int k){
+   int temp=log10(n);
+   ll power=temp/k;
+   ll lo=loop(10,power),hi=loop(10,power+1),mid;
+   while(hi-lo>1){
+      mid=(hi+lo)/2;
+      if(loop(mid,k)<n)
+         lo=mid+1;
+      else
+         hi=mid;
+   }
+   if(loop(lo,k)==n)
+    return lo;
+   if(loop(hi,k)==n)
+      return hi;
+   return 0;
+}
+
 ll maxPrimeFactor(ll n){
    ll maxPrime = -1;
  
@@ -26,8 +52,10 @@ ll maxPrimeFactor(ll n){
       maxPrime = 3;
       n/=3;
    }
+
+   ll high = kth_root(n,2);
  
-   for (ll i = 5; i <= sqrt(n); i += 6) {
+   for (ll i = 5; i <= high; i += 6) {
       while (n % i == 0) {
          maxPrime = i;
          n/=i;
