@@ -14,10 +14,10 @@ int fibonacci(int n, vector<int>&dp) {
 int main(){
    int t;
    cin>>t;
+   vector<int>dp(1e5+10,-1);
    while(t--) {
     int n;
     cin>>n;
-    vector<int>dp(n+1,-1);
     cout<<fibonacci(n, dp)<<endl;
    }
 }
