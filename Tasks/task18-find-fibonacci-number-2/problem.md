@@ -20,7 +20,7 @@ Constraints:
 
 ```
 Input:
-3
+4
 1
 2
 3
