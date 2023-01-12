@@ -75,17 +75,36 @@ ll maxPrimeFactor(ll n){
 void solve(){
    ll n,m;
    cin>>n>>m;
-   ll ct=0;
-   m=maxPrimeFactor(m);
-   ct+=(n/m);
-   ll cur=m*m;
-   ll round=1;
-   while(cur<=n){
-   	ct+=round;
-   	round++;
-   	cur*=m;
+   map <ll,pair<ll,ll>> mymap;
+   while(m!=1){
+      ll ct=0;
+      ll pm=maxPrimeFactor(m);
+      // cout<<pm<<"\n";
+      if(!(mymap[pm].ff==0 && mymap[pm].ss==0)){
+         // cout<<mymap[pm].ss<<"\n";
+         mymap[pm].ss++;
+         m/=pm;
+         continue;
+      }
+      ct+=(n/m);
+      ll cur=m*m;
+      ll round=1;
+      while(cur<=n){
+         ct+=round;
+         round++;
+         cur*=m;
+      }
+      mymap[pm]={ct,1};
+      m/=pm;
    }
-   cout<<ct<<"\n";
+   ll ans=1e18;
+   for(auto it=mymap.begin() ; it!=mymap.end() ; it++){
+      // cout<<(it->second).ff<<" "<<(it->second).ss<<"\n";
+      ll cur = ((it->second).ff)/((it->second).ss);
+      if(cur<ans) ans=cur;
+   }
+   
+   cout<<ans<<"\n";
 }
  
 int main(){
