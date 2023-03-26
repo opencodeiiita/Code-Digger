@@ -1,5 +1,8 @@
 # Code-Digger
 
+This is my repo 
+FOSS
+
 ## About
 Loading ... <b>Compilation error</b>. Oh! I didn't declare that variable x. *corrected* </br>
 *Compile* Now.. Loading ... <b>Runtime error</b>. Wtf! ... Oh! The array size is 1000 and I entered 100. *corrected* </br>
